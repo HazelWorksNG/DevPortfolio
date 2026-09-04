@@ -631,7 +631,7 @@ header {
 .contact {
     padding: 6rem 0;
     border-top: 1px solid var(--border);
-    background: url('../assets/vis.jpeg') no-repeat;
+    background: url('../asset/vis.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
 }
