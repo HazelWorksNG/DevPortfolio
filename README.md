@@ -153,7 +153,7 @@ Replace:
 
 with:
 
-<h3>My Fashion Store</h3>
+<h3>My Portfolio</h3>
 
 Change the description
 
