@@ -739,7 +739,7 @@ footer {
 /* MOBILE RESPONSIVE */
 @media (max-width: 768px) {
     html{
-        font-size: 70%;
+        font-size: 75%;
     }
     .nav-links {
         display: none;
