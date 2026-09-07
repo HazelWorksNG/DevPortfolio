@@ -413,14 +413,14 @@ header {
 }
 
 .project-overlay h3 {
-    font-size: .85rem;
+    font-size: 1rem;
     font-weight: 600;
     color: var(--white);
 }
 
 .project-overlay p {
     color: rgba(255, 255, 255, 0.9);
-    font-size: 0.5rem;
+    font-size: 0.8rem;
     line-height: 0.7rem;
     margin-bottom: 0.75rem;
     overflow-wrap: break-word;
@@ -739,7 +739,7 @@ footer {
 /* MOBILE RESPONSIVE */
 @media (max-width: 768px) {
     html{
-        font-size: 75%;
+        font-size: 80%;
     }
     .nav-links {
         display: none;
